@@ -8,6 +8,8 @@
 *Результат прогона тестов не зависит от подключенной БД, поэтому предоставлен единый отчет по тестам.*
 
 Всего было проведено 50 тест-кейсов. Общий процент успешных тестов: 72,00%.
+![report1](https://github.com/SashaGracheva/QADiploma/assets/121334860/3a739a74-0b61-48b9-9c58-74b376018b5f)
+![report2](https://github.com/SashaGracheva/QADiploma/assets/121334860/adc01d8e-a4c8-4af6-8a8e-c6c351e077bd)
 
 
 
